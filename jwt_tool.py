@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 #
 # JWT_Tool version 2.2.7 (28_05_2024)
 # Written by Andy Tyler (@ticarpi)
